@@ -7,3 +7,25 @@ body {
     box-sizing: border-box;
 }
 
+header {
+    background-color: green;
+    height: 60px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.content nav {
+    background-color: red;
+    width: 240px;
+    height: 100vh;
+}
+
+.content main {
+    background-color: blue;
+    display: flex;
+    flex-grow: 1;
+}
+
