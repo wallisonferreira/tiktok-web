@@ -9,7 +9,8 @@ body {
 }
 
 header {
-    background-color: green;
+    background-color: #FFF;
+    border-bottom:  1px solid #ccc;
     height: 60px;
 }
 
