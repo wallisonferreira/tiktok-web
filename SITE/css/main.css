@@ -1,0 +1,26 @@
+.iconImage {
+  max-width: 4rem;
+  border-radius: 50px;
+}
+.iconImage img {
+  width: 2rem;
+
+  border-radius: 50px;
+}
+.main-content{
+ display: flex;
+ justify-content: center;
+}
+.header-card{
+ display: flex;
+}
+.ligth{
+ font-weight: lighter;
+}
+.card-main{
+ width: 20rem;
+ margin: 0 auto;
+}
+.content-image img{
+ width: 20rem;
+}
