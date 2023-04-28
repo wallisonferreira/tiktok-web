@@ -102,3 +102,11 @@
   font-size: 12px;
   font-weight: lighter;
 }
+.btn {
+  text-decoration: none;
+  color: black;
+}
+
+.btn:hover {
+  color: rgba(254, 44, 85, 1);
+}
